@@ -1,13 +1,13 @@
-# Sample Hardhat Project
+# Venmo Blockchain
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A Venmo blockchain clone using Reactjs and tailwindCss
 
-Try running some of the following tasks:
+
+## hardhat tasks
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+yarn hardhat help
+yarn hardhat test
+yarn hardhat node
+yarn hardhat run scripts/deploy.js
 ```
